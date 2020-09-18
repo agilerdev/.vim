@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/c/Users/Antonio/.vim/after/ftplugin'
+let g:netrw_dirhist_8='/c/Users/Antonio/.vim/after'
+let g:netrw_dirhist_7='/c/Users/Antonio/.vim'
+let g:netrw_dirhist_6='/c/Users/Antonio/.vim/after/ftplugin'
+let g:netrw_dirhist_5='/c/Users/Antonio/.vim/after'
+let g:netrw_dirhist_4='/c/Users/Antonio/.vim'
+let g:netrw_dirhist_3='/c/Users/Antonio/.vim/after/ftplugin'
+let g:netrw_dirhist_2='/c/Users/Antonio/.vim/after'
+let g:netrw_dirhist_1='/c/Users/Antonio/.vim'
+let g:netrw_dirhist_0='/c/Users/Antonio/.vim/after/ftplugin'
